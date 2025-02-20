@@ -85,4 +85,14 @@ TerraWing - сервис для распознавания препятстви�
 
 Это всего лишь краткая выдержка из основных положений лицензии. Пожалуйста, ознакомьтесь с полным юридическим текстом лицензии для полного понимания ее условий.
 
+<h2 align="center"> Star History</h2>
+<div align="center">
+<a href="https://star-history.com/#K1rsN7/TerraWing&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=K1rsN7/TerraWing&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=K1rsN7/TerraWing&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=K1rsN7/SubManage&type=Date" />
+ </picture>
+</a>
+</div>
 
